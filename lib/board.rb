@@ -1,5 +1,3 @@
-board = Array.new
-
 puts board = ["  ","  ","  ","  ","  ","  ","  ","  ","  "]
 
 # Position 1: Top left
