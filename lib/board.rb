@@ -27,5 +27,3 @@ board[7]
 
 position 9: Bottom Right
 board[8]
-
-
