@@ -1,5 +1,4 @@
 board = Array ["  ","  ","  ","  ","  ","  ","  ","  ","  "]
-row = [" "," "," "]
 
 # Position 1: Top left
 board[0]
