@@ -1,4 +1,4 @@
-board = Array ["  ","  ","  ","  ","  ","  ","  ","  ","  "]
+board = ["  ","  ","  ","  ","  ","  ","  ","  ","  "]
 
 # Position 1: Top left
 board[0]
