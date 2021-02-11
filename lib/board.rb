@@ -1,3 +1,5 @@
+board = Array.new
+
 board = ["  ","  ","  ","  ","  ","  ","  ","  ","  "]
 
 # Position 1: Top left
